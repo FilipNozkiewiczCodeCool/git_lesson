@@ -1,2 +1,2 @@
-def www():
+def fffffff():
     pass
