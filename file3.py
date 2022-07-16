@@ -1,2 +1,2 @@
 def www():
-    pass
+    print("menu")
